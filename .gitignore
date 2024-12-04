@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Django-related files
+db.sqlite3
+__pycache__/
+*.pyc
+*.pyo
+migrations/
+
+# Media/uploads
+media/
+uploads/
+
+# Virtual environments
+venv/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
